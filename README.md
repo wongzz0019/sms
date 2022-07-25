@@ -4,7 +4,7 @@
 SSM项目
 
 #### 软件架构
-软件架构说明
+Spring + SpringMVC + Mybatis + MySQL
 
 
 #### 安装教程
